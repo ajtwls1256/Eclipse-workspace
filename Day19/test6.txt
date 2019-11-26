@@ -1,0 +1,3 @@
+마!
+이게!
+FileWriter다!
